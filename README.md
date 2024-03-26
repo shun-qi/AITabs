@@ -2,7 +2,7 @@
 
 Generate chords, beats, lyrics, melody, and tabs for any song.
 
-<img src='./image/ai1.gif'  style="width: 950px;" > 
+<img src='./image/ai1.gif'  style="width: 800px;" > 
 
 A transformer-based hybrid multimodal model, various transformer models address different problems in the field of music information retrieval, these models generate corresponding information dependencies that mutually influence each other.
 
