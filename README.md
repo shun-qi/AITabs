@@ -1,6 +1,6 @@
 # AITabs
 
-Generate chords, beats, lyrics, melody, and tabs for any song.
+Generate chords, beats, lyrics, melody, and tabs for music.
 
 <a href="https://lamucal.ai" alt="Lamucal.ai"><img src='./image/ai1.gif'  style="width: 800px;" > </a>
 
